@@ -1,0 +1,164 @@
+.detail{ 
+    background-color: black ;
+opacity: 0.4;
+/* font-size: 12px; */
+color: white;
+/* padding: 32px; */
+}
+
+.Clouds{
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/clouds.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    /* box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); */
+    border: 12px solid black;
+  }
+  
+.Clear{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/clear.jpeg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    /* box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); */
+  }
+
+.Mist{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/mist.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Smoke{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/smoke.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Haze{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/haze.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Dust{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/dust.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Fog{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/fog.png') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Sand{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/sand.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+  /* .Ash{
+  
+  }
+  
+  .Squall{
+  
+  }
+  .Tornado{
+  
+  } */
+
+.Snow{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/snow.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Rain{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/rain.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Drizzle{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/drizzle.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+  
+.Thunderstorm{
+    border: 12px solid black;
+    height: 600px;
+    width: 1000px;
+    background: url('./../assets/thunderstorm.jpg') no-repeat center center/cover;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  }
+
+ 
